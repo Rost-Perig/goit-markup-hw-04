@@ -172,9 +172,10 @@ p {
   margin-right: 10px;
 }
 
-.container-hero {
+.hero {
   display: flex;
   align-items: center;
+  justify-content: center;
   min-width: 1200px;
   height: 600px;
   margin-left: auto;

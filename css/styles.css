@@ -553,6 +553,7 @@ p {
 
 .site-footer .container {
   display: flex;
+  align-items: baseline;
 }
 
 .site-footer address {
@@ -589,7 +590,6 @@ p {
 
 .footer-social {
   margin-left: 70px;
-  padding-top: 12px;
 }
 
 .foo-soc-link {

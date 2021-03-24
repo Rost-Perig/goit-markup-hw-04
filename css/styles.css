@@ -157,8 +157,9 @@ p {
 
 .out-navi .link {
   display: flex;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  align-items: center;
+  padding-top: 32px; /*удерживает высоту хедера*/
+  padding-bottom: 32px; /*удерживает высоту хедера*/
   color: var(--black-text);
   font-weight: 500;
   line-height: 1.14;

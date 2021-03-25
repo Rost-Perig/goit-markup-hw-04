@@ -551,6 +551,7 @@ p {
 
 /* футер */
 .site-footer {
+  min-width: 1200px;
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: var(--darck-bg);

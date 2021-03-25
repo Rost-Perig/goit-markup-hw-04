@@ -32,6 +32,10 @@ body {
   /*width: 1600px; - решает проблему центрирования относительно вертикальной оси сайта???*/
 }
 
+section {
+  min-width: 1200px;
+}
+
 address {
   font-style: normal;
 }

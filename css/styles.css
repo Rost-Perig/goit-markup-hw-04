@@ -92,6 +92,7 @@ p {
 }
 
 .top-line {
+  min-width: 1200px;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: var(--color-line);
@@ -289,32 +290,6 @@ p {
 .section-feature-text {
   line-height: 1.71;
 }
-
-/*.feature-list .item::before {
-  content: '';
-  display: block;
-  height: 120px;
-  margin-bottom: 30px;
-  background-color: var(--light-second-bg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.feature-list .item:nth-child(1)::before {
-  background-image: url(../images/01-antenna.svg);
-}
-
-.feature-list .item:nth-child(2)::before {
-  background-image: url(../images/02-clock.svg);
-}
-
-.feature-list .item:nth-child(3)::before {
-  background-image: url(../images/03-diagram.svg);
-}
-
-.feature-list .item:nth-child(4)::before {
-  background-image: url(../images/04-astronaut.svg);
-}*/
 
 .section-work {
   padding-top: 94px;
